@@ -1,0 +1,17 @@
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\bin\Debug\net6.0-windows\SDA_46612r_MyProject.exe
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\bin\Debug\net6.0-windows\SDA_46612r_MyProject.deps.json
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\bin\Debug\net6.0-windows\SDA_46612r_MyProject.runtimeconfig.json
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\bin\Debug\net6.0-windows\SDA_46612r_MyProject.dll
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\bin\Debug\net6.0-windows\SDA_46612r_MyProject.pdb
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\obj\Debug\net6.0-windows\SDA_46612r_MyProject.csproj.AssemblyReference.cache
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\obj\Debug\net6.0-windows\SDA_46612r_MyProject.Form1.resources
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\obj\Debug\net6.0-windows\SDA_46612r_MyProject.csproj.GenerateResource.cache
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\obj\Debug\net6.0-windows\SDA_46612r_MyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\obj\Debug\net6.0-windows\SDA_46612r_MyProject.AssemblyInfoInputs.cache
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\obj\Debug\net6.0-windows\SDA_46612r_MyProject.AssemblyInfo.cs
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\obj\Debug\net6.0-windows\SDA_46612r_MyProject.csproj.CoreCompileInputs.cache
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\obj\Debug\net6.0-windows\SDA_46612r_MyProject.dll
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\obj\Debug\net6.0-windows\refint\SDA_46612r_MyProject.dll
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\obj\Debug\net6.0-windows\SDA_46612r_MyProject.pdb
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\obj\Debug\net6.0-windows\SDA_46612r_MyProject.genruntimeconfig.cache
+D:\Downloads\СДА\SDA_46612r\SDA_46612r_MyProject\SDA_46612r_MyProject\obj\Debug\net6.0-windows\ref\SDA_46612r_MyProject.dll

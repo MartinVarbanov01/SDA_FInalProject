@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ai+yJyty9JbWoctQ63hm8TdlVa/KgdwrJ1dhKkp7Mxi5RvWTsrvrkjwP27w39M+YEzS6i7T5HKxZVhhkYl0LAg==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\СДА\\SDA_46612r\\SDA_46612r_MyProject\\SDA_46612r_MyProject\\SDA_46612r_MyProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Skrill\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Skrill\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Skrill\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Skrill\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
